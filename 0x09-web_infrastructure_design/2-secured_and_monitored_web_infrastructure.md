@@ -2,8 +2,6 @@
 
 ![Image of a secured and monitored infrastructure](2-secured_and_monitored_web_infrastructure.jpg)
 
-[Visit Board](https://miro.com/app/board/uXjVOfNFwbY=/)
-
 ## Description
 
 This web infrastructure consists of three servers, and it has been designed with security, monitoring, and encryption to ensure robust and reliable performance.

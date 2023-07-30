@@ -2,8 +2,6 @@
 
 ![Image of a scaled up web infrastructure](3-scale_up.jpg)
 
-[Visit Board](https://miro.com/app/board/uXjVOfMRh90=/)
-
 ## Description
 
 This web infrastructure represents an enhanced and expanded version of the previously described setup[here](2-secured_and_monitored_web_infrastructure.md).In this upgraded version, all Single Points of Failure (SPOFs) have been addressed, and significant improvements have been made:
