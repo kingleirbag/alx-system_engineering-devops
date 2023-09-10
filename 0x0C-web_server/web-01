@@ -1,0 +1,48 @@
+#!/usr/bin/env bash
+#Web-01 logn commands
+
+#Setting up the SSH-agent
+eval $("ssh-agent")
+
+#Path to identify file
+ssh-add ~/.ssh/school
+
+#User and Ip address
+ssh ubuntu@54.210.88.216
+~                                                                                   
+~                                                                                   
+~                                                                                   
+~                                                                                   
+~                                                                                   
+~                                                                                   
+~                                                                                   
+~                                                                                   
+~                                                                                   
+~                                                                                   
+~                                                                                   
+~                                                                                   
+~                                                                                   
+~                                                                                   
+~                                                                                   
+~                                                                                   
+~                                                                                   
+~                                                                                   
+~                                                                                   
+~                                                                                   
+~                                                                                   
+~                                                                                   
+~                                                                                   
+~                                                                                   
+~                                                                                   
+~                                                                                   
+~                                                                                   
+~                                                                                   
+~                                                                                   
+~                                                                                   
+~                                                                                   
+~                                                                                   
+~                                                                                   
+~                                                                                   
+~                                                                                   
+~                                                                                   
+"web-01" 11L, 182C                                                11,24         All
