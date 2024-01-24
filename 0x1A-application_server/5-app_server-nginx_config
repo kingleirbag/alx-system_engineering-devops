@@ -2,7 +2,7 @@ server {
      listen 80 default_server;
      listen [::]:80 default_server;
 
-     server_name 54.210.88.216;
+     server_name 34.207.188.162;
 
      root /var/www/html;
      index index.html index.htm;
